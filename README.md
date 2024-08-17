@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A Revolução da IA: Um Impacto no Dia a Dia
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Elaboração de uma apresentação de slides com 10 páginas acerca de um perfil profissional utilizando a IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para adaptação do conteúdo;
+- IA Generativa **[Gamma](https://gamma.app/)** para criar os slides;
+- Ferramenta **Powerpoint** para auxilío na edição.
+- Ferramenta **Word** para elaboração do conteúdo base.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o Word para criar o currículo profissional. Posteriormente utilizei o "ChatGPT" para me fornecer melhores insights e revisar o currículo profissional, refinando o conteúdo para colocar nos slides e sugerindo tópicos. Porém o arquivo principal para geração de slides foi o Gamma, onde foi criado tanto a estrutura dos slides, como estilos personalizados, e até gerou imagens em IA. Por fim, foram feitos alguns ajustes finais de edição  de estilo no power point.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Essa apresentação ressalta uma importante aplicação prática da IA ao se criar slides através de um gerador de slides de maneira inteligente., apenas reforçando o poder da IA. Gerando tanto textos, temas e também imagens, através de uma base de dados inicial.
+
+[LINK PARA A APRESENTAÇÃO AQUI](https://gamma.app/docs/Apresentacao-Supervisor-de-Pricing-byghkoqbzt0hx81?mode=doc)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Essa foi uma experiência única de descobrimento do potêncial da IA, sabendo que é a ponta do iceberg.
